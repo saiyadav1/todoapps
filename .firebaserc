@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "resoluteai-internships"
+  },
+  "targets": {
+    "resoluteai-internships": {
+      "hosting": {
+        "rai-internships-superadmin": [
+          "resoluteai-internships"
+        ]
+      }
+    }
+  }
+}

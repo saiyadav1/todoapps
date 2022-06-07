@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site":"rai-internships-superadmin",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

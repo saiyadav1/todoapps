@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5a4418a.css",
+    "main.js": "/static/js/main.01587863.js",
+    "static/js/703.573598d4.chunk.js": "/static/js/703.573598d4.chunk.js",
+    "static/js/617.6531d424.chunk.js": "/static/js/617.6531d424.chunk.js",
+    "static/media/SuperuserBg.jpg": "/static/media/SuperuserBg.5ea8bbaa13d78c9f7cc1.jpg",
+    "static/media/resoluteai-logo.png": "/static/media/resoluteai-logo.5deeff24a5f3c52536c1.png",
+    "static/media/welspun_logo1.jpg": "/static/media/welspun_logo1.961ce88432254464a232.jpg",
+    "index.html": "/index.html",
+    "main.c5a4418a.css.map": "/static/css/main.c5a4418a.css.map",
+    "main.01587863.js.map": "/static/js/main.01587863.js.map",
+    "703.573598d4.chunk.js.map": "/static/js/703.573598d4.chunk.js.map",
+    "617.6531d424.chunk.js.map": "/static/js/617.6531d424.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a4418a.css",
+    "static/js/main.01587863.js"
+  ]
+}
